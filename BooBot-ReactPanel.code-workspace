@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "path": "./"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.png": true,
+            "**/*.mp*": true,
+            "**/*.zip": true,
+            "**/*.jp*g": true,
+            "**/*.mov": true,
+            "**/*.gif": true,
+            "**/*.webm": true,
+            "**/*.db": true,
+            "**/*.txt": true,
+            "**/node_modules*": true,
+            "**/package-lock*": true,
+            "**/.vscode": false,
+            "**/.vs": true
+        },
+        "editor.cursorStyle": "block-outline",
+        "editor.accessibilitySupport": "off",
+        "editor.autoClosingOvertype": "never"
+    }
+}
